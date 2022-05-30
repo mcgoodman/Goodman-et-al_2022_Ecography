@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/468137430.svg)](https://zenodo.org/badge/latestdoi/468137430)
+
 This repository contains data and code for Goodman et al. (2022), **Shifting fish distributions impact predation intensity in a sub-Arctic ecosystem**, in the journal *Ecography*.
 
 **Authors:** Maurice C. Goodman , Gemma Carroll, Stephanie Brodie, Arnaud Grüss, James T. Thorson, Stan  Kotwicki, Kirstin Holsman, Becca Selden, Elliott L. Hazen1, & Giulio A. De Leo
